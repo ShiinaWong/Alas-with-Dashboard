@@ -1,6 +1,6 @@
 相比于源库增加了仪表盘
 
-提供了一个较为实用的仪表盘，感谢@MengNianxiaoyao 作出的美观调整
+源码来自于@Zuosizhu，由于同步较慢，我重新从lme版本上fork了一版，由@Zuosizhu 提供了一个较为实用的仪表盘，感谢 @MengNianxiaoyao 作出的美观调整
 
 ![image](https://github.com/Zuosizhu/Alas-with-Dashboard/assets/60862861/ee2e3e8f-9a19-417e-8e5f-441ecdee1ae6)
 
